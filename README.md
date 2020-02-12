@@ -1,0 +1,2 @@
+# jsccodedmy
+Discovering JavaScript 
